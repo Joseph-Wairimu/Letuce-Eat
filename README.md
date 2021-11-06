@@ -8,3 +8,11 @@ My design practice offers a full range of services including, interaction and vi
 
 ####Product Management
 Planning and development is iterative. Because I am constantly coding and testing, the product I build is always ready to go live. This iterative process allows for changes as business requirements evolve.
+####Technologies Used
+(1).HTML.
+(2).Css.
+####Support and contact details
+Incase of any queries or any clarification you can contact me via email or phone.
+
+email. josephkamore084@gmail.com
+phone. 254706110898
