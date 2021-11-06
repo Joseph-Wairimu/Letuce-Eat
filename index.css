@@ -1,0 +1,17 @@
+.first{
+
+display: flex;
+
+}
+.nav{
+    float: right;
+    display: flex;
+    margin: 15px;
+}
+.naav{
+    background-color: #f19201;
+    float: right;
+    display: flex;
+    margin: 15px;
+    text-decoration: antiquewhite;
+}
