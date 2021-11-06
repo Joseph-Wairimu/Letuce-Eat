@@ -89,6 +89,8 @@ background-size: cover;
 .menu{
     box-shadow: 1px 1px 1px 1px;
     margin: 25px;
+    display: flex;
+    background-color: white;
 }
 .mine{
     display: flex;
@@ -101,4 +103,17 @@ background-size: cover;
     background-repeat: no-repeat;
    background-size: cover;
     background-image: url("images/image8.png");
+}
+.final{
+    text-align: center;
+    top: 400px;
+}
+.done{
+    background-color: black;
+    height: 20px;
+}
+#finish{
+    color: aliceblue;
+    text-align: center;
+    font-size: 12px;
 }
