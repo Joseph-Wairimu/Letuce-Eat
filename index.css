@@ -7,13 +7,21 @@ display: flex;
     float: right;
     display: flex;
     margin: 15px;
+    color: aliceblue;
 }
 .naav{
     background-color: #f19201;
     float: right;
     display: flex;
     margin: 15px;
-    text-decoration: antiquewhite;
+    color: aliceblue;
+}
+.navv{
+    float: right;
+    display: flex;
+    margin: 15px;
+    color: #f19201;
+
 }
 .one{
 background-image: url("images/image2.png");
@@ -21,4 +29,12 @@ height: 400px;
 background-repeat: no-repeat;
 background-size: cover;
 
+}
+.synopsis{
+    padding: 50px;
+    color: aliceblue;
+    font-size: 30px;
+}
+#mori{
+    color: aliceblue;
 }
