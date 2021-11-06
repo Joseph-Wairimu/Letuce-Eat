@@ -1,3 +1,6 @@
+body{
+    font-family: Roboto;
+}
 .first{
 
 display: flex;
@@ -43,6 +46,31 @@ background-size: cover;
     background-color: #f19201;
     color: aliceblue;
 }
-.back{
+/* .back{
     background-color:#DFD8CA ;
+} */
+.new{
+    text-align: center;
+}
+.neww{
+    text-align: center;
+    color: #f19201;
+}
+.style{
+    /* text-align: center; */
+ 
+    box-shadow: 1px 1px 1px 1px;
+    margin: 15px;
+    text-align: center;
+    border-radius: 25px;
+    width: 150px;
+
+    
+
+}
+.two{
+    height: 300px;
+}
+.flex{
+    display: flex;
 }
