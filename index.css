@@ -15,3 +15,10 @@ display: flex;
     margin: 15px;
     text-decoration: antiquewhite;
 }
+.one{
+background-image: url("images/image2.png");
+height: 400px;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
