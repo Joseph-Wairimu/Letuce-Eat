@@ -32,6 +32,7 @@ height: 410px;
 background-repeat: no-repeat;
 background-size: cover;
 
+
 }
 .synopsis{
     padding: 50px;
@@ -46,9 +47,11 @@ background-size: cover;
     background-color: #f19201;
     color: aliceblue;
 }
-/* .back{
-    background-color:#DFD8CA ;
-} */
+.back{
+    background-color:rgba(255,255,255, 0.2);
+
+    
+}
 .new{
     text-align: center;
 }
@@ -65,7 +68,7 @@ background-size: cover;
     /* border-radius: 25px; */
     width: 150px;
     background-color: white;
-
+    padding: 35px 0px;
     
 
 }
